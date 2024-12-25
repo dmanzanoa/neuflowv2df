@@ -1,5 +1,5 @@
-## Setup
-Clone this repository
+## Instructions
+Download the dockfile in the following link
 ```bash
 git clone https://github.com/dmanzanoa/neuflowv2df.git
 ```
